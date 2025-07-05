@@ -1,0 +1,29 @@
+{
+    "regs_zh_cn": [
+        "已经注册过，跳过注册流程。",
+        "请设置首次启动的用户名：",
+        "请再次输入设置的用户名以检测两次用户名的相似性：",
+        "请设置首次启动的密码：",
+        "请再次输入设置的密码以检测两次密码的相似性：",
+        "注册完成！",
+        "两次所输入的密码(或用户名)不同！"
+    ],
+    "regs_zh_thm": [
+        "已經註冊過，跳過註冊流程。",
+        "請設定首次啟動的使用者名稱：",
+        "請再次輸入設定的使用者名稱以檢測兩次使用者名的相似性：",
+        "請設定首次啟動的密碼：",
+        "請再次輸入設定的密碼以偵測兩次密碼的相似性：",
+        "註冊完成！",
+        "兩次所輸入的密碼（或使用者名）不同！"
+    ],
+    "regs_en_us": [
+        "Already registered, skip the registration process.",
+        "Please set the username for the first startup:",
+        "Please re-enter the username you set to check the similarity of the username twice:",
+        "Please set a password for the first boot:",
+        "Please re-enter the password you set to check the similarity between the two passwords:",
+        "Registration is complete!",
+        "The password (or username) entered twice is different!"
+    ]
+}
